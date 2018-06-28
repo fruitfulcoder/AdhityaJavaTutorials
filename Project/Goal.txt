@@ -1,0 +1,16 @@
+PROJECT 1
+Files:
+• Main.java
+• Animal.java
+• Dog.java
+• Cat.java
+• Rat.java
+
+Types:
+• Main Method
+• Objects
+• Interface
+
+Goal:
+ Make Animal interface that can be implemented by rat, cat, and dog.
+The animals should have individual methods.
